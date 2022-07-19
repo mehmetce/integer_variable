@@ -1,0 +1,11 @@
+C:\Users\Xakar\source\repos\integer_variable\integer_variable\bin\Debug\integer_variable.exe.config
+C:\Users\Xakar\source\repos\integer_variable\integer_variable\bin\Debug\integer_variable.exe
+C:\Users\Xakar\source\repos\integer_variable\integer_variable\bin\Debug\integer_variable.pdb
+C:\Users\Xakar\source\repos\integer_variable\integer_variable\obj\Debug\integer_variable.csproj.AssemblyReference.cache
+C:\Users\Xakar\source\repos\integer_variable\integer_variable\obj\Debug\integer_variable.csproj.SuggestedBindingRedirects.cache
+C:\Users\Xakar\source\repos\integer_variable\integer_variable\obj\Debug\integer_variable.Form1.resources
+C:\Users\Xakar\source\repos\integer_variable\integer_variable\obj\Debug\integer_variable.Properties.Resources.resources
+C:\Users\Xakar\source\repos\integer_variable\integer_variable\obj\Debug\integer_variable.csproj.GenerateResource.cache
+C:\Users\Xakar\source\repos\integer_variable\integer_variable\obj\Debug\integer_variable.csproj.CoreCompileInputs.cache
+C:\Users\Xakar\source\repos\integer_variable\integer_variable\obj\Debug\integer_variable.exe
+C:\Users\Xakar\source\repos\integer_variable\integer_variable\obj\Debug\integer_variable.pdb
